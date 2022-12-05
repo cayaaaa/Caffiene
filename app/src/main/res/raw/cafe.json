@@ -1,0 +1,92 @@
+{
+  "cafes": [
+    {
+      "id": 1,
+      "cafeName": "Kopi Kenangan",
+      "description": "Kopi Kenangan adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia.",
+      "location": "Jl Citra Niaga Raya",
+      "image": "https://firebasestorage.googleapis.com/v0/b/psi-caffeine.appspot.com/o/kopi_kenangan.jpg?alt=media&token=6a9f6534-c811-49c8-b863-dfb45070b0ba",
+      "rating": 4.5,
+      "distance": 2.5,
+      "openTime": "08:00",
+      "closeTime": "21:00"
+    },
+    {
+      "id": 2,
+      "cafeName": "Eight Coffee",
+      "description": "Eight Coffee adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia.",
+      "location": "Jl Veteran Raya",
+      "image": "https://firebasestorage.googleapis.com/v0/b/psi-caffeine.appspot.com/o/eight_cooffee.jpg?alt=media&token=a9d87cf7-1fdb-48b3-a349-9a4f847a9fff",
+      "rating": 4.5,
+      "distance": 3.5,
+      "openTime": "06:00",
+      "closeTime": "20:00"
+    },
+    {
+      "id": 3,
+      "cafeName": "Handall",
+      "description": "Handall adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia.",
+      "location": "Jl Intan Raya",
+      "image": "https://firebasestorage.googleapis.com/v0/b/psi-caffeine.appspot.com/o/handall.jpg?alt=media&token=6f952a0d-612d-4112-bc89-23a0e09ac4c2",
+      "rating": 4.5,
+      "distance": 4.7,
+      "openTime": "06:00",
+      "closeTime": "20:00"
+    },
+    {
+      "id": 4,
+      "cafeName": "Lab Coffee",
+      "description": "Lab Coffee adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia.",
+      "location": "Jl sisingamaraja",
+      "image": "https://firebasestorage.googleapis.com/v0/b/psi-caffeine.appspot.com/o/lab_coffee.jpg?alt=media&token=03c70a42-c6ce-4349-bd5f-b7f706ef5095",
+      "rating": 4.8,
+      "distance": 2.4,
+      "openTime": "06:00",
+      "closeTime": "19:00"
+    },
+    {
+      "id": 5,
+      "cafeName": "Kopi Soe",
+      "description": "Kopi Soe adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia.",
+      "location": "Jl Kalpataru Ekse",
+      "image": "https://firebasestorage.googleapis.com/v0/b/psi-caffeine.appspot.com/o/kopi_soe.jpg?alt=media&token=df06b483-8d60-4fc9-9e5f-d856d8715ac8",
+      "rating": 4.2,
+      "distance": 2.2,
+      "openTime": "10:00",
+      "closeTime": "18:00"
+    },
+    {
+      "id": 6,
+      "cafeName": "Kurang Lebih",
+      "description": "Kurang Lebih adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia.",
+      "location": "Jl MT Haryono",
+      "image": "https://firebasestorage.googleapis.com/v0/b/psi-caffeine.appspot.com/o/kurang_lebih.jpg?alt=media&token=0fa037c7-9c0e-4fdb-bd62-fdf0bb1071f3",
+      "rating": 4.2,
+      "distance": 1.2,
+      "openTime": "06:00",
+      "closeTime": "20:00"
+    },
+    {
+      "id": 7,
+      "cafeName": "Starbucks Coffee",
+      "description": "Starbucks, Coffee adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia.",
+      "location": "Jl Sisingamaraja",
+      "image": "https://firebasestorage.googleapis.com/v0/b/psi-caffeine.appspot.com/o/starbucks_coffee.jpg?alt=media&token=e72b0ad8-04c3-4230-9a9d-42af97313bc2",
+      "rating": 4.5,
+      "distance": 1.5,
+      "openTime": "09:00",
+      "closeTime": "22:00"
+    },
+    {
+      "id": 8,
+      "cafeName": "Subway",
+      "description": "Subway adalah perusahaan yang bergerak di bidang kopi minuman yang turut meramaikan pasar kopi kekinian di Indonesia.",
+      "location": "Jl Belimbing",
+      "image": "https://firebasestorage.googleapis.com/v0/b/psi-caffeine.appspot.com/o/subway.jpg?alt=media&token=b64ee003-b78a-40a4-9bb7-08355ce83fc7",
+      "rating": 4.5,
+      "distance": 1.7,
+      "openTime": "07:00",
+      "closeTime": "22:00"
+    }
+  ]
+}

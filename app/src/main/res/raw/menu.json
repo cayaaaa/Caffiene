@@ -1,0 +1,28 @@
+{
+  "menus": [
+    {
+      "menuId": 1,
+      "name": "Salad",
+      "price": 35000,
+      "type": "Makanan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/psi-caffeine.appspot.com/o/Menu%201.jpg?alt=media&token=77102e58-89d9-4ec5-88bb-b90bcdd83d2e",
+      "isHalal": true
+    },
+    {
+      "menuId": 2,
+      "name": "Barbeque",
+      "price": 45000,
+      "type": "Makanan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/psi-caffeine.appspot.com/o/Menu%202.jpg?alt=media&token=f9763842-a8af-41d2-8179-af9291be74c3",
+      "isHalal": true
+    },
+    {
+      "menuId": 3,
+      "name": "Es krim",
+      "price": 25000,
+      "type": "Makanan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/psi-caffeine.appspot.com/o/Menu%203.jpg?alt=media&token=de21abb4-ad02-437c-9e40-bef6a452186b",
+      "isHalal": true
+    }
+  ]
+}

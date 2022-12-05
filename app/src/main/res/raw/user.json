@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "uid": "admin1",
+      "username": "admin1",
+      "email": "admin1@gmail.com",
+      "password": "123456",
+      "avatarUrl": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "isAdmin": true
+    },
+    {
+      "uid": "user1",
+      "username": "user1",
+      "email": "user1@gmail.com",
+      "password": "123456",
+      "avatarUrl": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "isAdmin": false
+    }
+  ]
+}
